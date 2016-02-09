@@ -1,0 +1,15 @@
+{
+    "name": "blackie0424/admin",
+    "authors": [
+        {
+            "name": "blackie0424",
+            "email": "blackie0424@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "Blackie0424\\Admin\\": "src/"
+        }
+    }
+}
